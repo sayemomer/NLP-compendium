@@ -1,1 +1,3 @@
-# NLP-compendium
+# Natural Language Processing
+
+## Word embeddig or vectorization
